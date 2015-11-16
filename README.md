@@ -46,6 +46,6 @@
 ## Existing solutions
 - [jsonresume](http://jsonresume.org)
 - [Markdown Resume](http://there4development.com/markdown-resume)
-- [Microformats](http://microformats.org/wiki/resume-formats)
+- [Microformats](http://microformats.org/wiki/resume-formats) (including [h-resume](http://microformats.org/wiki/h-resume))
 - [HR-XML](http://www.hropenstandards.org)
 - [Europass](http://europass.cedefop.europa.eu/en/about)
