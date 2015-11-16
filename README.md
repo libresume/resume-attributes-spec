@@ -1,5 +1,9 @@
 # Resume Attributes Specification
 
+This document will change rapidly in the next few months before the final revision is published.
+
+The following are attributes that should be included in the specification.
+
 ## Standard attributes
    - contact info: contact.first_name, contact.last_name, etc.
    - objectives
