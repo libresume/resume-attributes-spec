@@ -43,7 +43,7 @@
    - skill level: `{skill: "my skill", percent: "80"}`
    - links: `[My portfolio](http://example.com)`
 
-# Existing solutions
+## Existing solutions
 - [jsonresume](http://jsonresume.org)
 - [Markdown Resume](http://there4development.com/markdown-resume)
 - [Microformats](http://microformats.org/wiki/resume-formats)
