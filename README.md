@@ -48,3 +48,4 @@
 - [Markdown Resume](http://there4development.com/markdown-resume)
 - [Microformats](http://microformats.org/wiki/resume-formats)
 - [HR-XML](http://www.hropenstandards.org)
+- [Europass](http://europass.cedefop.europa.eu/en/about)
